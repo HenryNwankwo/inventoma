@@ -1,0 +1,11 @@
+{
+  "name": "inventoma",
+  "version": "1.0.0",
+  "description": "An API for managing the inventory of a shop or business by users.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ifunanya Henry Nwankwo",
+  "license": "MIT"
+}
